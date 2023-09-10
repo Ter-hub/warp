@@ -10,3 +10,4 @@ Quantumult X 是 Quantumult 作者的另一款网络代理工具。
 ### 快速上手
 
 ![输入图片说明](WEiHLdcRonAa9hS.jpg)
+![输入图片说明](../image.png)
