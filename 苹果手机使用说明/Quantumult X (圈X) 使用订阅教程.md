@@ -1,8 +1,3 @@
-###  **1.iOS - Quantumult X (圈X) 使用订阅教程 ** 
-
-
-            
-
 ### 简介：
 Quantumult X 是 Quantumult 作者的另一款网络代理工具。
     
@@ -14,3 +9,4 @@ Quantumult X 是 Quantumult 作者的另一款网络代理工具。
 
 ### 快速上手
 
+![输入图片说明](WEiHLdcRonAa9hS.jpg)
