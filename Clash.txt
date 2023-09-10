@@ -1,1 +1,1 @@
-ss://chacha20:f063e809-974b-45b0-a326-238740eb4b00@cdb.anycast.eu.org:80
+ss://chacha20-ietf-poly1305:f063e809-974b-45b0-a326-238740eb4b00@cdb.anycast.eu.org:80
